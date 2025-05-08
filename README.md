@@ -7,4 +7,4 @@ Sites not blocked? Not working? Or having other issues? They can be fixed, just 
 
 ##### Project is currently in beta
 
-Contributors: 1 ( @RD-github31 )
+Contributors: 1 (@RD-github31)
