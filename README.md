@@ -1,5 +1,8 @@
 # Anti-NSFW
 ## What is Anti-NSFW?
+
+<p><a href="https://ant1nsfw.github.io" class="btn" target="_blank">Official Anti-NSFW site</a></p>
+
 Anti-NSFW is a project made by T0P0ICHH and RD that blocks NSFW (Not Safe For Work) content on your browser.
 - 500+ sites are already blocked by Anti-NSFW.
 
