@@ -1,5 +1,6 @@
 # Anti-NSFW
-<img src="antinsfw.png" width="50%">
+<img src="antinsfw.png" width="100%">
+
 ## What is Anti-NSFW?
 
 <p><a href="https://ant1nsfw.github.io" class="btn" target="_blank">Official Anti-NSFW site</a></p>
