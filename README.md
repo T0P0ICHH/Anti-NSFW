@@ -18,8 +18,12 @@ Anti-NSFW is a project made by T0P0ICHH and RD that blocks NSFW (Not Safe For Wo
 1. Download [hosts file](https://github.com/topoichh/Anti-NSFW/blob/main/hosts).
 2. Open `cmd` as Administrator.
 3. Locate the folder the hosts file is in using `cd` command.
-4. Run `move /y "hosts" "C:\Windows\System32\drivers\etc"`.
-> Restart your PC if you use the Firefox browser.
+4. Run
+```
+move /y "hosts" "C:\Windows\System32\drivers\etc"
+```
+> [!WARNING]
+> Restart your PC after installing Anti-NSFW if you use the Firefox browser.
 ### Android
 #### Without root:
 1. Download [Virtual Hosts](https://github.com/x-falcon/Virtual-Hosts/releases/) app.
@@ -29,19 +33,24 @@ Anti-NSFW is a project made by T0P0ICHH and RD that blocks NSFW (Not Safe For Wo
 ![Screenshot_20250514_004041_Virtual Hosts](https://github.com/user-attachments/assets/8c3e7639-f1c1-4a7c-b3e5-c53688fcb5c1)
 4. Turn on "use net hosts" and then click the "remote hosts url" option.
 ![Screenshot_20250514_004135_Virtual Hosts](https://github.com/user-attachments/assets/692134dc-dace-4e9a-8c64-56fa42681ec4)
+>[!TIP]
+>You can also download the hosts file and select the hosts file you downloaded from the main screen, but using net hosts is better because it auto updates.
 5. Paste this link in here:
 ```
 https://raw.githubusercontent.com/topoichh/Anti-NSFW/refs/heads/main/hosts
 ```
 ![Screenshot_20250514_004145_Virtual Hosts](https://github.com/user-attachments/assets/7aae3c97-a592-4c92-8a0d-fd733b6b09a7)
-7. Go back to the main screen and enable the very big switch.
+6. Go back to the main screen and enable the very big switch.
 ![Screenshot_20250514_004235_Virtual Hosts](https://github.com/user-attachments/assets/61b084a5-145e-40ea-829b-128535cfede8)
-> I am NOT sure if you need to reboot after doing this but it didn't work for me after enabling the big switch in the app.
+> [!NOTE]
+> I am NOT sure if you need to reboot after doing this but it didn't work for me (RD) after enabling the big switch in the app, but after a reboot it worked.
 
 ### MacOS/Linux
 #### Manually:
 1. Download [hosts file](https://github.com/topoichh/Anti-NSFW/blob/main/hosts).
 2. Locate the hosts file and move it to the /etc/ folder
+> [!NOTE]
+> Linux and MacOS Anti-NSFW installers are coming soon.
 ----
 ## How does Anti-NSFW work?
 
@@ -54,9 +63,14 @@ Anti-NSFW blocks NSFW websites via the hosts file.
 3. The hosts file overrides DNS.
 ### Location:
 
-- Windows: C:\Windows\System32\drivers\etc\hosts
-- macOS/Linux: /etc/hosts
-
+- Windows:
+```
+C:\Windows\System32\drivers\etc\hosts
+```
+- macOS/Linux:
+```
+/etc/hosts
+```
 ### Uses:
 
 - Testing websites locally.
@@ -69,4 +83,4 @@ Sites not blocked? Not working? Or having other issues? They can be fixed, just 
 ----
 ## Contributors: 2 
 - [topoichh](https://github.com/topoichh) - Anti-NSFW Project Creator, Blocks the NSFW websites, created the [OG installer script](https://github.com/topoichh/Anti-NSFW/releases/tag/preview-v1.0).
-- [RD](https://github.com/RD-github31) - Re-coded the Windows Anti-NSFW Installer. (Will create Linux Installer soon.)
+- [RD](https://github.com/RD-github31) - Re-coded the Windows Anti-NSFW Installer. Explained what is Anti-NSFW and how does it work. Made a tutorial on how to install Anti-NSFW on different OSes (Operating systems). (Will create Linux Installer soon.)
