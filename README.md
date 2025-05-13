@@ -19,7 +19,25 @@ Anti-NSFW is a project made by T0P0ICHH and RD that blocks NSFW (Not Safe For Wo
 2. Open `cmd` as Administrator.
 3. Locate the folder the hosts file is in using `cd` command.
 4. Run `move /y "hosts" "C:\Windows\System32\drivers\etc"`.
-5. Restart your PC if you use the Firefox browser.
+> Restart your PC if you use the Firefox browser.
+### Android
+#### Without root:
+1. Download [Virtual Hosts](https://github.com/x-falcon/Virtual-Hosts/releases/) app.
+2. Open the app and click the + icon.
+![Screenshot_20250514_003946_Virtual Hosts](https://github.com/user-attachments/assets/192d0a2f-720d-472f-a616-d71a9fbdc438)
+3.Turn on the "On startup" option, and open app Settings.
+![Screenshot_20250514_004041_Virtual Hosts](https://github.com/user-attachments/assets/8c3e7639-f1c1-4a7c-b3e5-c53688fcb5c1)
+4. Turn on "use net hosts" and then click the "remote hosts url" option.
+![Screenshot_20250514_004135_Virtual Hosts](https://github.com/user-attachments/assets/692134dc-dace-4e9a-8c64-56fa42681ec4)
+5. Paste this link in here:
+```
+https://raw.githubusercontent.com/topoichh/Anti-NSFW/refs/heads/main/hosts
+```
+![Screenshot_20250514_004145_Virtual Hosts](https://github.com/user-attachments/assets/7aae3c97-a592-4c92-8a0d-fd733b6b09a7)
+7. Go back to the main screen and enable the very big switch.
+![Screenshot_20250514_004235_Virtual Hosts](https://github.com/user-attachments/assets/61b084a5-145e-40ea-829b-128535cfede8)
+> I am NOT sure if you need to reboot after doing this but it didn't work for me after enabling the big switch in the app.
+
 ### MacOS/Linux
 #### Manually:
 1. Download [hosts file](https://github.com/topoichh/Anti-NSFW/blob/main/hosts).
