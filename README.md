@@ -44,7 +44,11 @@ https://raw.githubusercontent.com/topoichh/Anti-NSFW/refs/heads/main/hosts
 ![Screenshot_20250514_004235_Virtual Hosts](https://github.com/user-attachments/assets/61b084a5-145e-40ea-829b-128535cfede8)
 > [!NOTE]
 > I am NOT sure if you need to reboot after doing this but it didn't work for me (RD) after enabling the big switch in the app, but after a reboot it worked.
-
+#### With Root:
+Download the hosts file and move it to `/system/etc/` folder.
+More info [here](https://xdaforums.com/t/editing-host-file.4345167/#post-87204127)
+>[!TIP]
+>Using the Without Root method is better because of auto updating.
 ### MacOS/Linux
 #### Manually:
 1. Download [hosts file](https://github.com/topoichh/Anti-NSFW/blob/main/hosts).
