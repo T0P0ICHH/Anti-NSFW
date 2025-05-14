@@ -86,5 +86,5 @@ Sites not blocked? Not working? Or having other issues? They can be fixed, just 
 > We are also looking for Android and Linux developers to help us make the project better! Do a pull request if you can help us
 ----
 ## Contributors: 2 
-- [topoichh](https://github.com/topoichh) - Anti-NSFW Project Creator, Blocks the NSFW websites, created the [OG installer script](https://github.com/topoichh/Anti-NSFW/releases/tag/preview-v1.0).
-- [RD](https://github.com/RD-github31) - Re-coded the Windows Anti-NSFW Installer. Explained what is Anti-NSFW and how does it work. Made a tutorial on how to install Anti-NSFW on different OSes (Operating systems). (Will create Linux Installer soon.)
+- [topoichh](https://github.com/topoichh) - Anti-NSFW Project Creator, Blocks the NSFW websites, created the [OG installer script](https://github.com/topoichh/Anti-NSFW/releases/tag/preview-v1.0), Website Developer.
+- [RD](https://github.com/RD-github31) - Re-coded the Windows Anti-NSFW Installer. Explained what is Anti-NSFW and how does it work. Made a tutorial on how to install Anti-NSFW on different OSes (Operating systems). (Will create Linux Installer soon.), Website Developer
