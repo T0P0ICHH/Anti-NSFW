@@ -26,6 +26,8 @@ move /y "hosts" "C:\Windows\System32\drivers\etc"
 > Restart your PC after installing Anti-NSFW if you use the Firefox browser.
 ### Android
 #### Without root:
+> [!CAUTION]
+> Doing this may make some services not load (for example: Roblox, GitHub and YouTube).
 1. Download [Virtual Hosts](https://github.com/x-falcon/Virtual-Hosts/releases/) app.
 2. Open the app and click the + icon.
 ![Screenshot_20250514_003946_Virtual Hosts](https://github.com/user-attachments/assets/192d0a2f-720d-472f-a616-d71a9fbdc438)
