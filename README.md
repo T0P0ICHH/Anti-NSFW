@@ -1,8 +1,7 @@
-# Anti-NSFW
-----
+# <div align="center">Anti-NSFW</div>
 <img src="antinsfw.png" width="100%">
 
-<p><a href="https://ant1nsfw.github.io" class="btn" target="_blank">Official Anti-NSFW site</a></p>
+<div align="center"><a href="https://ant1nsfw.github.io" class="btn" target="_blank">Anti-NSFW Website</a> | <a href="https://t.me/ant1nsfw" class="btn" target="_blank">Telegram</a></div>
 
 ----
 
