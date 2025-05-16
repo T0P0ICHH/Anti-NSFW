@@ -7,7 +7,7 @@
 
 ## What is Anti-NSFW?
 Anti-NSFW is a project made by T0P0ICHH and RD that blocks NSFW (Not Safe For Work) content on your browser.
-- 1000+ sites are already blocked by Anti-NSFW.
+- 1700+ sites are already blocked by Anti-NSFW.
 ----
 ## How to install Anti-NSFW?
 ### Windows:
