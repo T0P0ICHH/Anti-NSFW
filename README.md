@@ -27,21 +27,24 @@ move /y "hosts" "C:\Windows\System32\drivers\etc"
 #### Without root:
 > [!CAUTION]
 > Doing this may make some services not load (for example: Roblox, GitHub and YouTube).
-1. Download [Virtual Hosts](https://github.com/topoichh/Anti-NSFW/releases/tag/android-release-v1.0) app.
-2. Open the app and click the + icon.
+1. Download the Android Release files [here](https://github.com/topoichh/Anti-NSFW/releases/tag/android-release-v1.0).
+2. Unzip the `android-release-v1.0.zip` file.
+3. Open the `android-release-v1.0` folder. (If there is an another folder with the same name, open it.)
+4. Install `Virtual Hosts.apk`
+5. Open the app and click the + icon.
 ![Screenshot_20250514_003946_Virtual Hosts](https://github.com/user-attachments/assets/192d0a2f-720d-472f-a616-d71a9fbdc438)
-3.Turn on the "On startup" option, and open app Settings.
+6.Turn on the "On startup" option, and open app Settings.
 ![Screenshot_20250514_004041_Virtual Hosts](https://github.com/user-attachments/assets/8c3e7639-f1c1-4a7c-b3e5-c53688fcb5c1)
-4. Turn on "use net hosts" and then click the "remote hosts url" option.
+7. Turn on "use net hosts" and then click the "remote hosts url" option.
 ![Screenshot_20250514_004135_Virtual Hosts](https://github.com/user-attachments/assets/692134dc-dace-4e9a-8c64-56fa42681ec4)
 >[!TIP]
 >You can also download the hosts file and select the hosts file you downloaded from the main screen, but using net hosts is better because it auto updates.
-5. Paste this link in here:
+8. Paste this link in here:
 ```
 https://raw.githubusercontent.com/topoichh/Anti-NSFW/refs/heads/main/hosts
 ```
 ![Screenshot_20250514_004145_Virtual Hosts](https://github.com/user-attachments/assets/7aae3c97-a592-4c92-8a0d-fd733b6b09a7)
-6. Go back to the main screen and enable the very big switch.
+9. Go back to the main screen and enable the very big switch.
 ![Screenshot_20250514_004235_Virtual Hosts](https://github.com/user-attachments/assets/61b084a5-145e-40ea-829b-128535cfede8)
 > [!NOTE]
 > I am NOT sure if you need to reboot after doing this but it didn't work for me (RD) after enabling the big switch in the app, but after a reboot it worked.
